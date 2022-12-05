@@ -15,7 +15,7 @@ The results were then written to a text file for others to read clearly.
 
 ## Results
 This was the code I used to analyze the election_results.csv file:
-'''
+```
 # -*- coding: UTF-8 -*-
 """PyPoll Homework Challenge Solution."""
 
@@ -173,7 +173,7 @@ with open(file_to_save, "w") as txt_file:
 
     # Save the winning candidate's name to the text file
     txt_file.write(winning_candidate_summary)
-'''
+```
 
 * After running this code, I found that the total number of votes received was 369,711
 * Of the three counties, Jefferson had 10.5% of the votes with a vote count of 38,855.  Denver county had 82.8% with 306,055 votes.  Finally, Arapahoe county had 6.7% of votes, with 24,801 votes total.
