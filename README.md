@@ -186,4 +186,5 @@ These results can be viewed in the text file: https://github.com/heatherhutchins
 
 
 ## Summary
-
+The Election Committee is able to use this script to analyze these election results, as well as the results from other elections as well.  
+In order to analzye results from a different election, a new csv file must be added to the Resources folder nested insid ethe Election Analysis Folder.  From there, the path must be changed in the script to read this file instead.  In line 15 of [Py_Poll.py](
