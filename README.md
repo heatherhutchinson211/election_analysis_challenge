@@ -1,7 +1,7 @@
 # Election_Analysis_Challenge
 
 ## Overview
-This challenged analyzes the file https://github.com/heatherhutchinson211/election_analysis_challenge/blob/main/election_results.csv of the votes from three different counties, for the different political candidates. 
+This challenged analyzes the file [Election_results.csv](https://github.com/heatherhutchinson211/election_analysis_challenge/blob/main/election_results.csv) of the votes from three different counties, for the different political candidates. 
 
 ### Purpose
 The purpose of this analysis was to present some vital information from the polls.  These results include:
