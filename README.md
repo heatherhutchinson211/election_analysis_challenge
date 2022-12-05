@@ -182,6 +182,7 @@ with open(file_to_save, "w") as txt_file:
 * Diana DeGette was the winner of this election. 
 
 These results can be viewed in the text file: [election_analysis.txt](https://github.com/heatherhutchinson211/election_analysis_challenge/blob/main/election_analysis.txt)
+
 <img width="298" alt="Screenshot 2022-12-04 at 5 46 51 PM" src="https://user-images.githubusercontent.com/117620028/205531577-cdb6ee5a-3a81-4aa3-b0aa-1e4afd8a9bd4.png">
 
 
