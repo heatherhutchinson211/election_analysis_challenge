@@ -180,7 +180,8 @@ with open(file_to_save, "w") as txt_file:
 * As far as candidate results, Charles Casper Stockham received 85,213 votes which accounted for 23.0% of total votes.  Diana DeGette received 272,892 votes which was 73.8% of all votes.  Finally, Raymon Anthony Doane had 11,606 votes which made up 3.1% of teh total votes. 
 * Diana DeGette was the winner of this election. 
 
-These results can be viewed in the text file
+These results can be viewed in the text file: https://github.com/heatherhutchinson211/election_analysis_challenge/blob/main/election_analysis.txt
+
 
 
 *
